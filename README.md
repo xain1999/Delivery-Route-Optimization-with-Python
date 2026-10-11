@@ -1,7 +1,5 @@
 # Delivery Route Optimization with Python — companion code
 
-[![tests](https://github.com/OWNER/REPO/actions/workflows/tests.yml/badge.svg)](https://github.com/OWNER/REPO/actions/workflows/tests.yml)
-
 Companion code for the book **_Delivery Route Optimization with Python: From a
 First Working Planner to Production Systems_** by Mohammed Islam Hadjoudj.
 
